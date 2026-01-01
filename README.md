@@ -1,4 +1,15 @@
-# SUM25 – Learning Materials
+# SUM25 – FPT University Learning Materials
+
+This repository contains learning materials, assignments, and source code
+for students at **FPT University**, including courses such as:
+
+- ADY201 – Applied Data Analysis
+- CPV301 – Computer Vision
+- MAI391 – Machine Learning & AI
+- MAS291
+
+Keywords: FPT University, ADY FPT, CPV FPT GitHub, FPT learning materials
+
 
 ## 📌 Giới thiệu
 Repository này được tạo nhằm **lưu trữ tài liệu học tập, bài tập và source code** trong quá trình học tập tại **FPT University**.
